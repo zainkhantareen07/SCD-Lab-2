@@ -1,0 +1,6 @@
+Software Construction and Development
+Lab 2
+Name: Zain Ullah
+CMS ID: 66208
+
+This file demonstrates basic Git commands, cloning, committing, and pushing changes to GitHub.
